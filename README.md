@@ -1,69 +1,18 @@
-# PERANCANGAN SISTEM INFORMASI APLIKASI MOBILE TOKO BANGUNAN
+# Sikuli Toko Bangunan
+Repository ini berisi kode sumber untuk aplikasi **Sikuli Toko Bangunan**, sebuah sistem informasi berbasis web untuk pengelolaan dan transaksi penjualan bahan bangunan.
 
-## (SIKULI Toko Bangunan)
+## Desain UI/UX
+Desain antarmuka aplikasi ini dibuat dengan menggunakan Figma. Setiap elemen dan alur navigasi telah dirancang untuk memastikan pengalaman pengguna yang intuitif dan mudah digunakan. Mockup dan prototipe aplikasi dapat dilihat pada file Figma berikut:
+- [Link ke Figma Prototipe]
+- USER (https://www.figma.com/proto/X9PcfBbTJAz0YJ55vppqZ7/PROJECT-UAS-ANSI?node-id=1-35&p=f&t=1tHnWU1N9MYaWDuE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+- ADMIN(https://www.figma.com/proto/X9PcfBbTJAz0YJ55vppqZ7/PROJECT-UAS-ANSI?node-id=1-1341&p=f&t=VUDHQfojB2WEJbIz-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A1307)
 
-## 📌 Deskripsi Proyek
+## Tim Pengembang
+Berikut adalah tim yang terlibat dalam pengembangan aplikasi ini:
+- **Resi Ajhari** - Project Manager
+- **Agisna Rahmathia Putri** - Database Engineer
+- **Alia Maharani** - System Analyst
+- **Jelvin Putra Hulu** - System Analyst
+- **Marvel Joshua Bunadi** - UI/UX Designer
 
-SIKULI Toko Bangunan merupakan proyek perancangan Sistem Informasi Aplikasi Mobile yang bertujuan untuk mendukung proses pemesanan, checkout, dan pengelolaan transaksi pada toko bangunan secara digital. Proyek ini berfokus pada tahap analisis dan perancangan sistem, dengan output berupa diagram perancangan dan mockup aplikasi.
-
-## 🎯 Tujuan
-
-* Merancang sistem informasi toko bangunan berbasis aplikasi mobile
-* Mempermudah pelanggan dalam melihat produk dan melakukan pemesanan
-* Membantu admin dalam mengelola data produk, pesanan, dan transaksi
-* Menyediakan rancangan sistem yang terstruktur dan terintegrasi
-
-## 👥 Pengguna Sistem
-
-* **Admin**: Mengelola produk, kategori, supplier, pesanan, pembayaran, dan laporan
-* **Pelanggan**: Melihat produk, mengelola keranjang, melakukan checkout dan pembayaran
-
-## 🧩 Fitur Utama (Perancangan)
-
-* Login dan registrasi pengguna
-* Manajemen produk dan kategori
-* Keranjang belanja
-* Checkout dan pembayaran
-* Pengelolaan pesanan oleh admin
-* Mockup antarmuka aplikasi pelanggan dan admin
-
-## 🗄️ Perancangan Basis Data
-
-Database dirancang menggunakan Entity Relationship Diagram (ERD) dengan tabel utama:
-
-* Admin
-* Pelanggan
-* Supplier
-* Kategori
-* Produk
-* Keranjang
-* Detail Keranjang
-* Pesanan
-* Detail Pesanan
-* Pembayaran
-
-## 📐 Diagram yang Digunakan
-
-* Use Case Diagram
-* Entity Relationship Diagram (ERD)
-* Sequence Diagram
-* Activity Diagram
-* Mockup Aplikasi
-
-## 🛠️ Tools yang Digunakan
-
-* Visual Paradigm (perancangan diagram)
-* Figma / tools desain (mockup aplikasi)
-* GitHub (repository proyek)
-
-## 📂 Output Proyek
-
-* Dokumen perancangan sistem
-* Diagram UML
-* Mockup aplikasi mobile
-* Repository GitHub sebagai dokumentasi proyek
-
-## 📄 Catatan
-
-Proyek ini merupakan hasil perancangan sistem dan belum mencakup tahap implementasi aplikasi secara penuh. Sistem dirancang sebagai acuan pengembangan aplikasi toko bangunan di masa mendatang.
-
+Repository ini hanya berisi desain dan dokumentasi terkait antarmuka pengguna, tidak termasuk kode sumber aplikasi.
